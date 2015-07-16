@@ -1929,18 +1929,18 @@ containing a value of this type.
         public static final int home_btn_bg=0x7f02003b;
         public static final int ic_launcher=0x7f02003c;
         public static final int nav_background=0x7f02003d;
-        public static final int nav_btn_01_off=0x7f02003e;
-        public static final int nav_btn_01_on=0x7f02003f;
-        public static final int nav_btn_02_off=0x7f020040;
-        public static final int nav_btn_02_on=0x7f020041;
-        public static final int nav_btn_03_off=0x7f020042;
-        public static final int nav_btn_03_on=0x7f020043;
-        public static final int nav_btn_04_off=0x7f020044;
-        public static final int nav_btn_04_on=0x7f020045;
-        public static final int nav_btn_1=0x7f020046;
-        public static final int nav_btn_2=0x7f020047;
-        public static final int nav_btn_3=0x7f020048;
-        public static final int nav_btn_4=0x7f020049;
+        public static final int nav_btn_01=0x7f02003e;
+        public static final int nav_btn_01_off=0x7f02003f;
+        public static final int nav_btn_01_on=0x7f020040;
+        public static final int nav_btn_02=0x7f020041;
+        public static final int nav_btn_02_off=0x7f020042;
+        public static final int nav_btn_02_on=0x7f020043;
+        public static final int nav_btn_03=0x7f020044;
+        public static final int nav_btn_03_off=0x7f020045;
+        public static final int nav_btn_03_on=0x7f020046;
+        public static final int nav_btn_04=0x7f020047;
+        public static final int nav_btn_04_off=0x7f020048;
+        public static final int nav_btn_04_on=0x7f020049;
         public static final int notification_template_icon_bg=0x7f02004a;
     }
     public static final class id {

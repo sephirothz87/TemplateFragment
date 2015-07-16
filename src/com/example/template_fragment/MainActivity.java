@@ -15,11 +15,11 @@ public class MainActivity extends FragmentActivity {
 
 	private LayoutInflater mLayoutInflater;
 
-	private Class mFragments[] = { Fragment1.class, Fragment2.class,
-			Fragment3.class, Fragment4.class };
+	private Class mFragments[] = { Fragment01.class, Fragment02.class,
+			Fragment03.class, Fragment04.class };
 
-	private int mNavImages[] = { R.drawable.nav_btn_1, R.drawable.nav_btn_2,
-			R.drawable.nav_btn_3, R.drawable.nav_btn_4 };
+	private int mNavImages[] = { R.drawable.nav_btn_01, R.drawable.nav_btn_02,
+			R.drawable.nav_btn_03, R.drawable.nav_btn_04 };
 	
 	private String mTabTag[]={"1","2","3","4"};
 
